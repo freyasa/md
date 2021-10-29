@@ -6,3 +6,9 @@ Now we use markdown to note some reference.
 
 [GAN's Loss deduction](_posts/2021-10-29-GAN.md)
 
+
+
+### Test
+
+[test](_posts/test.md)
+
