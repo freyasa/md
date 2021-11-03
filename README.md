@@ -10,7 +10,7 @@ Now we use markdown to note some reference.
 
 ### Activation Function
 
-[Activation Function&Gridient problem](_posts/2021-11-3-ActivationFunction)
+[Activation Function&Gridient problem](_posts/2021-11-3-ActivationFunction.md)
 
 ### Test
 
