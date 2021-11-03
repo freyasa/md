@@ -8,6 +8,10 @@ Now we use markdown to note some reference.
 
 
 
+### Activation Function
+
+[Activation Function&Gridient problem](_posts/2021-11-3-ActivationFunction)
+
 ### Test
 
 [test](_posts/test.md)
