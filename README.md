@@ -29,3 +29,5 @@ Now we use markdown to note some reference.
 ### Mulit-Label Learning
 
 [A review on multi-label learning algorithms](https://www.cnblogs.com/liaohuiqiang/p/9339996.html)
+
+[A review on multi_label learning algorithms(local)](_posts/2021-11-23-MutliLabelReview.md)
